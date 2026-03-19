@@ -57,7 +57,7 @@ keywords: ['cloud guides', 'documentation', 'how-to', 'cloud features', 'tutoria
 | [Optimizing ClickHouse Assistant Agent Conversations with a Semantic Layer](/use-cases/AI_ML/AIChat/semantic-layer) | Guide to using AGENTS.md to provide custom business logic and data-specific instructions to the ClickHouse Assistant chat agent |
 | [Overview](/cloud/reference/byoc/overview) | Deploy ClickHouse on your own cloud infrastructure |
 | [PCI onboarding](/cloud/security/compliance/pci-onboarding) | Learn more about how to onboard to PCI compliant services |
-| [Private Networking Setup](/cloud/reference/byoc/onboarding/network) | Deploy ClickHouse on your own cloud infrastructure |
+| [AWS Private Networking Setup](/cloud/reference/byoc/onboarding/network-aws) | Deploy ClickHouse on your own cloud infrastructure |
 | [Query API Endpoints](/cloud/get-started/query-endpoints) | Easily spin up REST API endpoints from your saved queries |
 | [SAML SSO removal](/cloud/security/saml-removal) | How to remove SAML SSO with ClickHouse Cloud |
 | [SAML SSO setup](/cloud/security/saml-setup) | How to set up SAML SSO with ClickHouse Cloud |
