@@ -1106,7 +1106,6 @@ const sidebars = {
           collapsible: true,
           link: { type: 'doc', id: 'integrations/data-ingestion/etl-tools/fivetran/index' },
           items: [
-            'integrations/data-ingestion/etl-tools/fivetran/setup-guide',
             'integrations/data-ingestion/etl-tools/fivetran/reference',
             'integrations/data-ingestion/etl-tools/fivetran/troubleshooting',
           ],
